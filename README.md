@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asrarjb1807
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on very basics java
+- 💞️ I’m looking to collaborate on very basics java or python
 - 📫 How to reach me just msg me here...
 
 <!---
